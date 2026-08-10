@@ -5,11 +5,11 @@ BookFill Minecraft Exploit
   <img src="preview.png" width="300">
 </p>
 
-[![minecraft version: 1.21.8](https://img.shields.io/badge/minecraft_version-1.21.8-92B780.svg?style=flat-square)](https://github.com/prettier/prettier)
-
 **Client-side only** Fabric mod. It works by sending the exact same network packet vanilla sends when you click "Done" / "Sign and Close" in the book-and-quill screen, so any server accepts it.   
 
-Check out the [BookFill Minecraft Exploit Website](https://bookfill.hrasvx.dev/) for a tutorial.
+Check out the [BookFill Minecraft Exploit Website](https://bookfill.hrasvx.dev/) for a tutorial. 
+[![minecraft version: 1.21.8](https://img.shields.io/badge/minecraft_version-1.21.8-92B780.svg?style=flat-square)](https://github.com/prettier/prettier)
+ 
 ## What it does
 
 - `/bookfill <filename>` — reads `config/bookfill/<filename>.txt` and types
