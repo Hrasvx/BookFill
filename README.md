@@ -30,3 +30,5 @@ in the GUI itself.
 Put your `.txt` file(s) in `.minecraft/config/bookfill/`, e.g.
    `.minecraft/config/bookfill/example.txt`.
 In-game: hold an empty Book and Quill, run `/bookfill example`.
+
+This exploit mostly uses ai generated code!!
